@@ -1,0 +1,7 @@
+{
+  "name": "youtube-ui",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
