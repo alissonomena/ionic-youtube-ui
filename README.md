@@ -15,3 +15,9 @@ ionic serve
 ```sh
 npm i @ionic/cli -g
 ```
+
+## Imagem
+
+<div align="left">
+  <img src="https://user-images.githubusercontent.com/20044229/169829452-a4032227-5f44-4898-9c06-92fb584b9eb2.png" />
+</div>
